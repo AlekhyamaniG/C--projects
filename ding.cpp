@@ -6,7 +6,7 @@ int sumOfNNaturalNumbers( int n){
    return n*(n+1)/2;
 
 }
-
+// comments
 
 int main(){
  int n;
