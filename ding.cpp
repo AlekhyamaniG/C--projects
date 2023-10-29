@@ -8,7 +8,7 @@ int sumOfNNaturalNumbers( int n){
 }
 // comments
 void myfnc(){}
-
+void newfnc(){}
 int main(){
  int n;
  cout<<"enter the n value";
