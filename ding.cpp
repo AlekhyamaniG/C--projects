@@ -7,6 +7,7 @@ int sumOfNNaturalNumbers( int n){
 
 }
 // comments
+void myfnc(){}
 
 int main(){
  int n;
